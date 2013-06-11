@@ -1,0 +1,554 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ext",
+				"extends"
+			],
+			[
+				"workspace",
+				"workspace_id"
+			],
+			[
+				"_plone_",
+				"_plone_deploy"
+			],
+			[
+				"_plone",
+				"_plone_local_zeo"
+			],
+			[
+				"plone",
+				"plone-production"
+			],
+			[
+				"mobile",
+				"mobile_switch"
+			],
+			[
+				"port",
+				"portal-searchbox"
+			],
+			[
+				"un",
+				"undo_button"
+			],
+			[
+				"find",
+				"find_elements_by_class_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n	\"folders\":\n	[\n		{\n			\"path\": \"/Users/ekonetzni/Dropbox/Projects/cnm-bb-communities\"\n		}\n	]\n}\n",
+			"file": "untitled.sublime-project",
+			"file_size": 96,
+			"file_write_time": 1370960783000000,
+			"settings":
+			{
+				"buffer_size": 96,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"co",
+				"Coffee: Compile File"
+			],
+			[
+				"compi",
+				"Coffee: Compile File"
+			],
+			[
+				"coff",
+				"Coffee: Compile File"
+			],
+			[
+				"cof",
+				"Coffee: Compile File"
+			],
+			[
+				"browser",
+				"View In Browser"
+			],
+			[
+				"sscoff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"todo",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"View In Browser"
+			],
+			[
+				"prev",
+				"Preview"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssxm",
+				"Set Syntax: XML"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssmar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssmul",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"white",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"tidt",
+				"Tidy HTML"
+			],
+			[
+				"lore",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"lorem",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Tidy CSS (Low Compression)"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"hig",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"high",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"setsass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"brose",
+				"Preferences: Browse Packages"
+			],
+			[
+				"m",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git pull c",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"git pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git stu",
+				"Git: Status"
+			],
+			[
+				"show to",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"djan",
+				"Set Syntax: Python Django"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"termin",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"repl:",
+				"SublimeREPL: Lua"
+			],
+			[
+				"Sub",
+				"SublimeREPL: Groovy"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/opt/plone/scripts/fabfile.py",
+		"/Users/ekonetzni/Downloads/buildout/base.cfg",
+		"/Users/ekonetzni/Downloads/buildout/plone01.cfg",
+		"/Users/ekonetzni/Dropbox/Projects/Asana Plone/konetzni/asanaapi/asana.py",
+		"/Users/ekonetzni/Dropbox/Projects/Asana Plone/konetzni/asana/asana.py",
+		"/Users/ekonetzni/Dropbox/Projects/Asana Plone/.gitignore",
+		"/Users/ekonetzni/Dropbox/Projects/Asana Plone/readme.rst",
+		"/Users/ekonetzni/Dropbox/Projects/Utopia/Utopia/run.py",
+		"/Users/ekonetzni/Dropbox/sites/albuquerque-art/config.rb",
+		"/Users/ekonetzni/Dropbox/sites/delete/index.html",
+		"/Users/ekonetzni/Dropbox/sites/albuquerque-art/sass/styles.sass",
+		"/Users/ekonetzni/Downloads/vmerriman.ldif",
+		"/opt/plone/buildout/src/cnm.website/cnm/website/browser/homepage.pt",
+		"/opt/plone/buildout/src/cnm.website/cnm/website/browser/auth.py",
+		"/opt/plone/buildout/src/cnm.website/cnm/website/theme/static/mobile.css",
+		"/opt/plone/buildout/src/cnm.website/cnm/website/theme/index.html",
+		"/Users/ekonetzni/Dropbox/Aazadan's deck.txt",
+		"/Users/ekonetzni/Documents/Projects/Performance Test/Performance scripting.txt",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/www.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-enabled/my.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-enabled/www.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/guest.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-enabled/guest.cnm.edu",
+		"/Users/ekonetzni/Dropbox/Film Textbook",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/apache2.conf",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/httpd.conf",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/www.cnm.edu-ssl",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/old-cnm.edu-redirects.conf",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/empsal.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/archive.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/forms.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/fake-cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/old-cnm.edu-rewrites.conf",
+		"/Users/ekonetzni/Desktop/top100.txt",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-enabled/staging.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-enabled/empsal.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/staging.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/out",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/cms01.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/cnm.edu-rewrites.conf",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/redmine",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/conf.d/javascript-common.conf",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/mods-enabled/status.conf",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/redmine.config",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/fabfile.py",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-enabled/greenpledge.cnm.edu",
+		"/Users/ekonetzni/Desktop/test.html",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/fabfile.pyc",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/password.cnm.edu-ssl",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/cnm-ssl",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/forms.cnm.edu-ssl",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/greenpledge.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/directory.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/seasons.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/webmaster.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/webct.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/cnm",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/my.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/password.cnm.edu",
+		"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available/registration.cnm.edu",
+		"/Users/ekonetzni/Dropbox/book",
+		"/Users/ekonetzni/Dropbox/cnm-projects/web_diff_tracker/webdiff/settings.py",
+		"/Users/ekonetzni/Dropbox/cnm-projects/web_diff_tracker/fts/tests.py",
+		"/Users/ekonetzni/Dropbox/need-list.txt",
+		"/Users/ekonetzni/Dropbox/cnm-projects/web_diff_tracker/reporter/tests.py",
+		"/Users/ekonetzni/Dropbox/cnm-projects/web_diff_tracker/reporter/models.py",
+		"/Users/ekonetzni/Dropbox/cnm-projects/web_diff_tracker/reporter/views.py",
+		"/Users/ekonetzni/Dropbox/cnm-projects/web_diff_tracker/templates/reporter/index.html",
+		"/Users/ekonetzni/Dropbox/cnm-projects/web_diff_tracker/templates/500.html",
+		"/Users/ekonetzni/Library/Application Support/Sublime Text 2/Packages/User/Terminal.sublime-settings",
+		"/Users/ekonetzni/Dropbox/cnm-projects/web_diff_tracker/fts/models.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/ekonetzni/Downloads/google_portlet",
+			"<open files>",
+			"/Users/ekonetzni/Dropbox/cnm-projects/cnm_apache_configuration/sites-available"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".com",
+			"gmail.com",
+			"portal-searchbox",
+			"searchGadget",
+			"../assets/css",
+			"mobile.css",
+			"ServerLimit",
+			"http://cnm.edu",
+			"http://www.cnm.edu",
+			"\"",
+			"Redirect",
+			"Redirect 301 /",
+			"Redirect /",
+			"/u01/server/logs",
+			"/u02/docroots",
+			"^",
+			"R=301",
+			"<Directory"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/css",
+			"",
+			"RewriteRule",
+			"RewriteRule ^/",
+			"Redirect ^/",
+			"${APACHE_LOG_DIR}",
+			"/u02/data/docroots",
+			"^/",
+			"L,R=301"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "untitled.sublime-project",
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 145.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true
+}
