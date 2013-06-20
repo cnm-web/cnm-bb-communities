@@ -73,7 +73,10 @@ thead th { font-weight: bold }
 #schemePreview,
 /*/branding*/
 body {
-  background: url(images/src-background.jpg) no-repeat -100px -550px;
+}
+
+#contentFrame {
+  background: url(images/src-background.jpg) no-repeat fixed -100px -550px !important;
 }
 
 body.topFrame {
@@ -191,10 +194,6 @@ body.picker .locationPane {
   position: relative;
 }
 
-#navFrame {
-  position: absolute;
-  bottom: -89px;
-}
 /* @group CONTENT PANE */
 
 #contentdiv {
